@@ -1,0 +1,56 @@
+[SECTION 1: SALES PERFORMANCE PROTOCOLS]
+- If sales are -5% or more vs LY at MTD, escalate to daily stand-up with action plan
+- Priority order for recovery: SPT improvement first, then appointment conversion, then traffic
+- Minimum daily sales target per CA: $15,000
+- If MTD gap to LY exceeds $300K, Store Director must present recovery plan to Regional Director
+- Weekend days should generate 1.4x weekday average; if not, investigate floor coverage
+
+[SECTION 2: STAFFING PROTOCOLS]
+- VIP events require: 1 manager on floor, 1 CA per 3 clients, 1 host, 1 stock associate on standby
+- Language matching: always assign CA who speaks client's preferred language when known
+- If 2+ senior CAs absent: redistribute their client portfolios to top mid-tier CAs with manager oversight
+- Overtime requires 72-hour advance notice to HR
+- Part-time staff cannot be scheduled more than 5 hours without a break
+- All CAs must be briefed on daily target and priority categories every morning
+
+[SECTION 3: APPOINTMENT PROTOCOLS]
+- Target: 40% of monthly sales from appointments
+- Follow-up call within 24 hours of appointment for non-purchasers
+- VIP clients (Top Tier / High Potential): proactive outreach at least once per month by their dedicated CA
+- New client (first purchase): CA must send thank-you note within 48 hours and schedule follow-up in 30 days
+- Appointment conversion rate below 50% requires coaching session with Assistant Director
+- All appointment outcomes must be logged in CRM same day
+
+[SECTION 4: INVENTORY & PRODUCT PROTOCOLS]
+- If category is -10% vs LY: review with visual merchandiser to improve placement, and brief CAs on selling story
+- Hero products must always be on display, never in back stock
+- VIP event: pre-pull top 3 items per category for each invited client based on their purchase history
+- Low stock alert (< 5 units): notify stock team and request inter-store transfer if needed
+- Overstocked items (> 30 units, slow-moving): add to monthly styling appointment recommendation list
+- New season arrivals must be on floor within 48 hours of delivery
+- Visual merchandiser must validate floor set every Monday morning
+
+[SECTION 5: CLIENT RELATIONSHIP PROTOCOLS]
+- Top Tier clients: personal call from Store Director for any event invitation
+- High Potential: personal call from Senior CA
+- Repeater 10K+: personalized SMS or email from their CA
+- One-Timer: standard email campaign
+- International clients: coordinate with clienteling team for pre-arrival contact when visit is known
+- Any client spending $10K+ in a single visit must receive a personal thank-you from the Store Director within 24 hours
+- Client birthdays: CA sends personalized note 1 week before; Store Director signs for Top Tier
+
+[SECTION 6: DAILY MANAGER CHECKLIST]
+- Morning: review overnight KPIs, check appointment calendar, brief selling team on daily target and priorities
+- Midday: floor walk, check client experience, review morning sales pace
+- Evening: review day's performance, flag any issues, prepare next-day priorities
+- Weekly: review team individual performance, identify coaching needs, plan upcoming events
+- Monthly: full KPI review with Assistant Director, submit staffing plan for following month
+
+[SECTION 7: VIP EVENT PROTOCOLS]
+- Invitations must go out minimum 2 weeks before event
+- RSVP tracking: CA responsible for confirming each client on their portfolio
+- Event day: briefing 1 hour before doors open, assign CA to each client cluster
+- Champagne and refreshments: coordinate with operations 48 hours in advance
+- Post-event: CA follow-up call within 48 hours for all attendees who did not purchase
+- Sales target for VIP evening: minimum $8,000 SPT (sales per transaction)
+- Event recap report due to Store Director within 24 hours of event close
