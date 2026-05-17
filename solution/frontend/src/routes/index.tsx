@@ -218,7 +218,9 @@ function Dashboard() {
         <div style={{ color: "#c9a96e", letterSpacing: 1, fontSize: 13 }}>
           <span style={{ fontWeight: 700 }}>⚡ VIP EVENT IN 7 DAYS</span> — SS25 RTW & Accessories Preview · May 27, 2025 · 35 Clients Expected · 2 Senior CAs on Vacation
         </div>
-        <GoldButton>Prepare Event →</GoldButton>
+        <GoldButton onClick={() => navigate({ to: "/ask-ai" })}>
+          Prepare Event →
+        </GoldButton>
       </div>
     </Shell>
   );
